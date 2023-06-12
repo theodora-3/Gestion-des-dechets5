@@ -3,6 +3,11 @@
 	width: 700px;
 	background-color: rgb(178, 174, 169);
 }
+.logo{
+	background-image: url(téléchargement.png);
+	height: 50px;
+	width: 50px;
+}
 #select{
 	width: 100px;
 	padding-left: 80%;
@@ -32,7 +37,6 @@ button{
 	background-color: rgb(230, 199, 199);
 	border:1px solid gray;
 	border-radius: 12px;
-    
 }
 input[type="text"]{
 	width: 90%;
@@ -56,4 +60,13 @@ input[type="submit"]{
 	background-color: rgb(42, 60, 60);
 	color: rgb(183, 171, 171);
 	border-radius: 12px;
+}
+.text{
+	display: flex;
+	justify-content: center;
+	color: rgb(37, 33, 33);
+}
+p1{
+	color: rgb(6, 9, 11);
+	margin: 50px;
 }
