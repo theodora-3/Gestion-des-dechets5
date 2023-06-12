@@ -1,0 +1,59 @@
+.content{
+	height: 700px;
+	width: 700px;
+	background-color: rgb(178, 174, 169);
+}
+#select{
+	width: 100px;
+	padding-left: 80%;
+}
+select{
+	height: 25px;
+	border: none;
+	color: gray;
+}
+h1{
+    padding-left: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    padding: 10px;
+}
+.entete{
+    justify-content: space-around;
+    display: flex;
+    flex: 50%;
+}
+button{
+	width: 225px;
+	height: 50px;
+	margin: 15px;
+	color: black;
+	background-color: rgb(230, 199, 199);
+	border:1px solid gray;
+	border-radius: 12px;
+    
+}
+input[type="text"]{
+	width: 90%;
+	height:50px ;
+	border: none;
+	margin: 15px;
+	border-bottom: 2px solid gray;
+}
+input[type="password"]{
+	width: 90%;
+	height:50px ;
+	border: none;
+	margin: 15px;
+	border-bottom: 2px solid gray;
+}
+input[type="submit"]{
+	width: 80%;
+	height:50px ;
+	margin: 20px;
+	border: none;
+	background-color: rgb(42, 60, 60);
+	color: rgb(183, 171, 171);
+	border-radius: 12px;
+}
