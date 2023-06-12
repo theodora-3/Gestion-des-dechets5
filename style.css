@@ -3,11 +3,6 @@
 	width: 700px;
 	background-color: rgb(178, 174, 169);
 }
-.logo{
-	background-image: url(téléchargement.png);
-	height: 50px;
-	width: 50px;
-}
 #select{
 	width: 100px;
 	padding-left: 80%;
